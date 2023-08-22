@@ -113,7 +113,10 @@ public class Tobor extends JuniorRobot
 ```
 
 ### Video:
+[Link zur Demonstration](https://clipchamp.com/watch/uvDq1sS7his)
 
+### Bild:
+<img width="436" alt="Robocode-Match" src="https://github.com/M-e-r-l-i-n-a/Tobor-LA1550/assets/89131331/3190aec3-90a4-4b00-8ec2-282a5dd10c62">
 
 ### Verifikation: 
 Ich habe mein Ziel, Tobors Strategie verständlich zu beschreiben, im Abschnitt Erklärung erreicht.
